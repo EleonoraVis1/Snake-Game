@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1715153682 source:c:\users\zarni\desktop\studies\cpp\oooo\food.cpp
+	"Food.h"
+
+1715153283 c:\users\zarni\desktop\studies\cpp\oooo\food.h
+	<windows.h>
+	<cstdlib>
+	"Component.h"
+
+1715153576 c:\users\zarni\desktop\studies\cpp\oooo\component.h
+
+1715153730 source:c:\users\zarni\desktop\studies\cpp\oooo\foodfactory.cpp
+	"FoodFactory.h"
+
+1715153418 c:\users\zarni\desktop\studies\cpp\oooo\foodfactory.h
+	"Food.h"
+	"factory.h"
+
+1715153625 c:\users\zarni\desktop\studies\cpp\oooo\factory.h
+	"Component.h"
+
+1715155610 source:c:\users\zarni\desktop\studies\cpp\oooo\snake.cpp
+	"Snake.h"
+
+1715153464 c:\users\zarni\desktop\studies\cpp\oooo\snake.h
+	<windows.h>
+	<vector>
+	"Component.h"
+
+1715153800 source:c:\users\zarni\desktop\studies\cpp\oooo\snakefactory.cpp
+	"SnakeFactory.h"
+
+1715153515 c:\users\zarni\desktop\studies\cpp\oooo\snakefactory.h
+	"Snake.h"
+	"factory.h"
+	"Component.h"
+
+1716372400 source:c:\users\zarni\desktop\studies\cpp\oooo\main.cpp
+	<iostream>
+	<conio.h>
+	<ctime>
+	<fstream>
+	"Snake.h"
+	"Food.h"
+	"FoodFactory.h"
+	"SnakeFactory.h"
+
